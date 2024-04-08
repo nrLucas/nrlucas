@@ -8,7 +8,7 @@
 
 
 - I'm currently working at FUNAPE as a Full Stack Developer
-- <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs.svg" /> I’m currently learning NestJS and Prisma
+- <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" /> I’m currently learning NestJS and Prisma
  - <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> My main javascript library is React.
  - <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> NextJs is the React Framework I'm working the most with.
 
