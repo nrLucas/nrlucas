@@ -12,7 +12,7 @@
  - <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> My main javascript library is React.
  - <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> NextJs is the React Framework I'm working the most with.
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nrLucas&count_private=true&show_icons=true&theme=radical)](https://github.com/nrLucas/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nrLucas&show_icons=true&theme=radical)](https://github.com/nrLucas/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrLucas)](https://github.com/nrLucas/github-readme-stats)
